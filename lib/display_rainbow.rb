@@ -1,10 +1,6 @@
 # Write your #display_rainbow method here
 
-colors = ["r: red"]
-
-def display_rainbow(color)
-  puts "#{color}"
+def display_rainbow(color_list)
+  puts ""
 
 end
-
-display_rainbow("blue")
