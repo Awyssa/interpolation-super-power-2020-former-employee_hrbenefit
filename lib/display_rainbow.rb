@@ -1,8 +1,8 @@
 # Write your #display_rainbow method here
 
 def display_rainbow(color_list)
-  puts "-R: #{color[0]}, O: #{color[1]}, Y: #{color[2]}, G: #{color[3]}, B: #{color[4]}, I: #{color[5]}, V: #{color[6]}"
+  puts "-R: #{color_list[0]}, O: #{color_list[1]}, Y: #{color_list[2]}, G: #{color_list[3]}, B: #{color_list[4]}, I: #{color_list[5]}, V: #{color_list[6]}"
 
 end
 
-display_rainbow
+display_rainbow()
