@@ -1,7 +1,7 @@
 # Write your #display_rainbow method here
 
-def display_rainbow(colors)
-  puts "#{rainbow_colors[1]}"
+def display_rainbow(color)
+  puts "#{color}"
 
 end
 
